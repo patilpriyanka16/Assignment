@@ -1,0 +1,26 @@
+.login-reg {
+
+    padding: 10rem;
+    position: relative;
+
+}
+
+.row {
+
+    justify-content: center;
+    display: inline-flexbox;
+}
+
+.LoginIput {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+
+}
+
+ .RegisterInput {
+
+    position: relative;
+}
